@@ -2,7 +2,7 @@ from pyrofork import Client, filters
 import re
 
 api_id = 22051826  # جایگزین با API ID واقعی
-api_hash = "your_api_hash"  # جایگزین با API Hash واقعی
+api_hash = "713ee0c13c60e46ecf2f9c3af4a7694b"  # جایگزین با API Hash واقعی
 
 app = Client("stars_bot", api_id=api_id, api_hash=api_hash, test_mode=True)
 
